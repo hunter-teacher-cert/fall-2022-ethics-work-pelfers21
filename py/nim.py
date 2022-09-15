@@ -2,7 +2,7 @@
 # Patti (Patricia) Elfers-Wygand
 # CSCI 77800 Fall 2022
 # collaborators:Alana Robinson, Patti Elfers-Wygand
-# consulted: Stack Overflow and GitHub
+# consulted: Github, Codereview.stackexchange.com
 
 import random
 
