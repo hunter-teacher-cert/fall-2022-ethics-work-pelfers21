@@ -3,28 +3,28 @@ Ethics - Week 04
 Names.txt
 
 List of Teachers
-Mary Brown
-Samuel Shippe
-Caroline Dollar
-Irene Barry
-Lois Vogel
-Elizabeth Smith
-Harry Fiffer
-Joseph Hornblower
-Kathleen Chipetto
-Deborah Sellers
-Yolanda Rivera
-Sam Champion
-Rachel Ray
-Oprah Winfrey
-Ken Rosatto
-Elizabeth Cady Stanton
-Harriet Tubman
-Sal Abbracimento
-Frederick Hubbard
-Robert Anderson
-Joseph Smith
-John Adams
-Andrew Adams
-Salvatore Ignaccio
-Joanne Harris
+Mrs. Mary Brown
+Mr. Samuel Shippe
+Ms. Caroline Dollar
+Dr. Irene Barry
+Ms. Lois Vogel
+Mrs. Elizabeth Smith
+Mr. Harry Fiffer
+Dr. Joseph Hornblower
+Mrs. Kathleen Chipetto
+Mrs. Deborah Sellers
+Ms. Yolanda Rivera
+Mr. Sam Champion
+Ms. Rachel Ray
+Ms. Oprah Winfrey
+Mrs. Ken Rosatto
+Ms. Elizabeth Cady Stanton
+Ms. Harriet Tubman
+Dr. Sal Abbracimento
+Mr. Frederick Hubbard
+Mr. Robert Anderson
+Mr. Joseph Smith
+Mr. John Adams
+Mr. Andrew Adams
+Dr. Salvatore Ignaccio
+Mrs. Joanne Harris
