@@ -1,5 +1,7 @@
 Patti (Patricia) Elfers-Wygand
-
+CSCI 77800-Ethics - Week 04
+Regex.py
+Help from w3schools.com and K.Martin
 
 
 import re
