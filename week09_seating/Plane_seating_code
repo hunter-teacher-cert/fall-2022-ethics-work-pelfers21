@@ -1,6 +1,8 @@
 #Collaborators:Elizabeth,Jenna, Patti, Jing
 #Resource and Reference: https://github.com/ryanhoang15/Python/blob/master/9.22%20Lab%20Ch%209:%20Concert%20seating%20chart(2D).py
 
+#our code link to the REPLIT FILE:  https://replit.com/@Halseyjhs/planeseating2py 
+
 
 price_chart = [[4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4],
                [2, 2, 3, 0, 3, 2, 2, 2, 3, 0, 3, 2, 2],
