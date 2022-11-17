@@ -54,3 +54,4 @@ for x, row in enumerate(price_chart):
     for col in price_chart[x]:
         print(col, end=" ")
     print()
+#I added the link to Replit on the bottom
