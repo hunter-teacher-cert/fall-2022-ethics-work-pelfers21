@@ -1,4 +1,4 @@
-#Collaborators:Elizabeth,                    ,           Patti, Jing,Jenna
+#Collaborators:Elizabeth, Jing,  Patti, Jenna
 #Resource and Reference: https://github.com/ryanhoang15/Python/blob/master/9.22%20Lab%20Ch%209:%20Concert%20seating%20chart(2D).py
 #This is our link: https://replit.com/@Halseyjhs/planeseating2py#main.py 
 
